@@ -1,9 +1,10 @@
 # WannaCry|WannaDecrypt0r decompiled
 
 Credits to:
-([toxyl](https://github.com/Toxyl))
-([Rain-1](https://gist.github.com/rain-1/989428fa5504f378b993ee6efbc0b168))
-([Epivalent](https://gist.github.com/Epivalent/e20d975297dcb57d4a5802b025e80e2c))
+* ([toxyl](https://github.com/Toxyl))
+* ([Rain-1](https://gist.github.com/rain-1/989428fa5504f378b993ee6efbc0b168))
+* ([Epivalent](https://gist.github.com/Epivalent/e20d975297dcb57d4a5802b025e80e2c))
+* ([Retargetable Decompiler](https://retdec.com/decompilation/))
 
 # WannaCry|WannaDecrypt0r NSA-Cyberweapon-Powered Ransomware Worm 
 
